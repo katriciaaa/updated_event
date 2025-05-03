@@ -136,6 +136,9 @@ const styles = StyleSheet.create({
   eventContainer: {
     marginBottom: 20,
     paddingBottom: 10,
+    backgroundColor: '#f9f9f9',
+    borderRadius: 10,
+    padding: 15,
   },
   eventRow: {
     flexDirection: 'row',
